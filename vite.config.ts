@@ -8,10 +8,11 @@ export default defineConfig({
         'src/data/recoveryCodes.ts',
         'src/data/webAuthnAuthenticate.ts',
         'src/data/webAuthnRegister.ts',
+        'src/img/amora.svg'
       ],
       output: {
         assetFileNames: '[name][extname]',
-        dir: 'theme/keywind/login/resources/dist',
+        dir: 'theme/amora/login/resources/dist',
         entryFileNames: '[name].js',
       },
     },
