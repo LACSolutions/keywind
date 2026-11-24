@@ -1,6 +1,6 @@
 # keywind
 
-Source of the Amora Keycloak login theme: FreeMarker templates plus TypeScript, Tailwind CSS 3 and Alpine.js, built with Vite. Fork of upstream keywind. Independent repo in LAC. Base branch: `master` on `origin` (LACSolutions); never push or open PRs to the `upstream` remote.
+Source of the Amora Keycloak login theme: FreeMarker templates plus TypeScript, Tailwind CSS 3 and Alpine.js, built with Vite. Fork of upstream keywind. Base branch: `master` on `origin` (LACSolutions); never push or open PRs to the `upstream` remote.
 
 ## Commands
 
