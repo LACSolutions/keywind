@@ -4,7 +4,7 @@ Source of the Amora Keycloak login theme: FreeMarker templates plus TypeScript, 
 
 ## Commands
 
-Package manager: `pnpm`, with `pnpm-lock.yaml`. A tracked `package-lock.json` (from a 2024 npm install) disagrees with it; never run npm or edit that file. Removing it is a separate decision.
+Package manager: `pnpm`, with `pnpm-lock.yaml`. Never run npm.
 
 | Command | What it does |
 |---------|--------------|
